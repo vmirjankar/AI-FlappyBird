@@ -4,7 +4,7 @@ NAME: VED VISHAL MIRJANKAR <br/>
 PROJECT: AI PLAYS FLAPPY BIRD <br/>
 
 ABSTRACT: 
-Configuring an AI Model using Python which can train itself to play the game of Flappy Bird where the bird has to pass between the pipes on the screen without touching them so as to increase the score. The game of Flappy Bird will also be coded in Python using Pygame module.
+Configuring an AI Model using Python which can train itself to play the game of Flappy Bird where the bird has to pass between the pipes on the screen without touching them so as to increase the score. The game of Flappy Bird will also be coded in Python using Pygame module. <br/>
 
 BRIEF PROCESS DESCRIPTION:
 •	Built the graphics for Flappy Bird using Pygame module in Sublime Text Editor. The code contains comments for self-understanding purposes.
