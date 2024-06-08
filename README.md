@@ -16,7 +16,8 @@ https://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf<br/>
   3.	Activation Function: tanH
   4.	Population Size: 50 birds
   5.	Fitness Function: Distance
-  6.	Max Generations: 30<br/>
+  6.	Max Generations: 30
+<br/>
 •	Downloaded and made changes to the NEAT Configuration File. Detailed information is given in this link:<br/>
 https://neat-python.readthedocs.io/en/latest/config_file.html<br/>
 •	Coded and implemented the NEAT Algorithm into the python file. The code contains comments for self-understanding purposes.<br/>
