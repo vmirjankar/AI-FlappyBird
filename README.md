@@ -28,6 +28,9 @@ IMAGES:<br/>
 ![image](https://github.com/vmirjankar/AI_Flappy_Bird/assets/111427005/81729bc7-460c-4ffb-81f9-cda221bb0738)<br/>
 2.	Shows how the final project looks after configuring the NEAT algorithm and implementing it. (Full project)<br/>
 ![image](https://github.com/vmirjankar/AI_Flappy_Bird/assets/111427005/7657bc50-36af-4427-b714-bcc85ecdaae8)<br/>
+3.  Terminal after running Generation 0 on a population size of 50
+![1](https://github.com/vmirjankar/AI_Flappy_Bird/assets/111427005/565adaf7-cfe5-4049-ab98-9d0da6f80e55)
+
 
 
 
