@@ -24,11 +24,11 @@ https://neat-python.readthedocs.io/en/latest/config_file.html<br/>
 •	Modifications were made later on to improve how the game looks.<br/>
 
 IMAGES:<br/>
-1.	Shows how the project looked initially where the bird passes through the pipes regardless of collision. Score also increases as the bird passes each set of pipes. (Only the graphics part)<br/>
+1.	Shows how the project looked initially where the bird passes through the pipes regardless of collision. Score also increases as the bird passes each set of pipes. (Only the graphics part):<br/>
 ![image](https://github.com/vmirjankar/AI_Flappy_Bird/assets/111427005/81729bc7-460c-4ffb-81f9-cda221bb0738)<br/>
-2.	Shows how the final project looks after configuring the NEAT algorithm and implementing it. (Full project)<br/>
+2.	Shows how the final project looks after configuring the NEAT algorithm and implementing it. (Full project):<br/>
 ![image](https://github.com/vmirjankar/AI_Flappy_Bird/assets/111427005/7657bc50-36af-4427-b714-bcc85ecdaae8)<br/>
-3.  Terminal after running Generation 0 on a population size of 50
+3.  Terminal after running Generation 0 on a population size of 50:
 ![1](https://github.com/vmirjankar/AI_Flappy_Bird/assets/111427005/565adaf7-cfe5-4049-ab98-9d0da6f80e55)
 
 
